@@ -61,17 +61,16 @@ For this purpose, I have downloaded the dataset of the last 17 years' historical
 
 # **Conclusion:**
 
-Here, I have used six different Neural Network models to carry out the analysis and prediction of stock price/performance and train them with Hybrid data generated from Numerical data (i.e. Last 17 years Stock price/performance records of TCS (Tata Consultancy Service)) and Textual data (i.e.India News Headlines data). 
+Here, I have used six different Neural Network models to carry out the analysis and prediction of stock price/performance and train them with Hybrid data generated from Numerical data (i.e. Last 17 years Stock price/performance records of TCS (Tata Consultancy Service)) and Textual data (i.e.India News Headlines data).
 
-WI have found accuracy of  each model as mention below:
+I have found the accuracy of each model as mention below:
 
+1.	Logistic Regression Model: 83.22032395127025 %
+2.	Random forest Model: 81.19986132499133 %
+3.	Decision Tree Model: 79.30759245672454 %
+4.	Linear Discriminant Model: 83.4484927155308 %
+5.	AdaBoost Model: 85.35849908490619 %
+6.	**Gradient Boosting Model: 85.5213615950851 %**
 
-1. Logistic Regression Model:  83.22032395127025 %
-2. Random forest Model      :  81.19986132499133 %
-3. Decision Tree Model      :  79.30759245672454 %
-4. Linear Discriminant Model :  83.4484927155308 %
-5. AdaBoost Model           :  85.35849908490619 %
-6. **Gradient Boosting Model  :  85.5213615950851 %**
-
- At the end, we can clearly see that Gradient Boosting Model gives more accuracy(i.e. 85.5%)  as compared to all other models.Gradient Boosting Model has 85.5% accuracy which means it performs better  on Analysis and prediction of Stock price/performance than other 5 Neural Network Models.
+In the end, we can see that Gradient Boosting Model gives more accuracy(i.e. 85.5%) as compared to all other models. Gradient Boosting Model has 85.5% accuracy which means it performs better on Analysis and prediction of Stock price/performance than the other 5 Neural Network Models.
 
