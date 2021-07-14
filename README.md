@@ -73,5 +73,5 @@ WI have found accuracy of  each model as mention below:
 5. AdaBoost Model           :  85.35849908490619 %
 6. **Gradient Boosting Model  :  85.5213615950851 %**
 
- At the end, we can clearly see that Gradient Boosing Model gives more accuracy(i.e. 85.5%)  as compared to all other models.Gradient Boosting Model has 85.5% accuracy which means it performs better  on Analysis and prediction of Stock price/performance than other 5 Neural Network Models.
+ At the end, we can clearly see that Gradient Boosting Model gives more accuracy(i.e. 85.5%)  as compared to all other models.Gradient Boosting Model has 85.5% accuracy which means it performs better  on Analysis and prediction of Stock price/performance than other 5 Neural Network Models.
 
