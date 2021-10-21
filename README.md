@@ -6,7 +6,7 @@
 ### Data Science & Business Analytics Intern
 **July 2021**
 
-Here, our main objective is to create a hybrid model for stock price/performance 
+Here, main objective is to create a hybrid model for stock price/performance 
 prediction using numerical analysis of historical stock prices, and 
 sentimental analysis of news headlines. 
 
